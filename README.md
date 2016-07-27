@@ -1,1 +1,1 @@
-# javascript-new-sprint
+# javascript new sprint
