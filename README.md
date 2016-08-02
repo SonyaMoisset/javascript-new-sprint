@@ -1,3 +1,3 @@
-# javascript new sprint
+# javascript new sprint (books)
 - eloquent javascript
 - javascript patterns
